@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brandon Simpson		Brandon@dsf.co.za
 
 # THANKS
 
